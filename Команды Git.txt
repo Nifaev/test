@@ -1,0 +1,6 @@
+git config --global user.name "nifaev"
+git config --global user.email "nifaev.ivan@gmail.com"
+git init - создание репозитория git в текущем каталоге
+git remote add origin {url} - связать локальный репозиторий с репозиторием на GitHub
+git clone {url} - создает локальную копию удаленного репозитория
+git status - показывает не закомиченные файлы
